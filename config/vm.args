@@ -1,0 +1,6 @@
+-sname helloapp
+
+-setcookie helloapp_cookie
+
++K true
++A30
